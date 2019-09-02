@@ -13,5 +13,5 @@ def link
 end 
 
 def any_phrase(fav_phrase)
-  p fav_phrase
+  puts fav_phrase
 end
